@@ -1,0 +1,11 @@
+.itemsList-ul {
+  list-style-type: none;
+}
+
+.itemsList-ul li {
+  padding: 5px;
+}
+
+.itemsList-ul li * {
+  margin: 2px 10px;
+}
